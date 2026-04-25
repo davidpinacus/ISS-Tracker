@@ -38,15 +38,15 @@ def check_night():
     
 def sent_email():
       
-        email="davidpiancus7@gmail.com"
-        app_password="gcnj rnkj vytc byhn"
+        email="Email"
+        app_password="Your Password"
       
         with smtplib.SMTP("smtp.gmail.com") as connection:
             connection.starttls()
             connection.login(user=email, password=app_password)
             connection.sendmail(
                 from_addr=email,
-                to_addrs="250171601135@crescent.education",
+                to_addrs="Your Email",
                 msg="Subject:Look Up \n\n The ISS is right above you in the sky"
             )
 while True:
