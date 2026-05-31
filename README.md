@@ -1,4 +1,4 @@
-# 🚀 ISS Overhead Notifier (Python - API + SMTP)
+# ISS Overhead Notifier (Python - API + SMTP)
 
 A Python automation script that tracks the International Space Station (ISS) in real-time and sends an email alert when it is above your location at night.
 
@@ -6,11 +6,11 @@ A Python automation script that tracks the International Space Station (ISS) in 
 
 ## How it works:-
 
-* 🌍 Uses real-time ISS location API
-* 🌙 Checks if it is night at your location
-* 📡 Combines multiple APIs
-* ✉️ Sends instant email alerts
-* ⚡ Runs continuously (automation-ready)
+*  Uses real-time ISS location API
+*  Checks if it is night at your location
+*  Combines multiple APIs
+*  Sends instant email alerts
+*  Runs continuously (automation-ready)
 
 ---
 
@@ -25,7 +25,7 @@ A Python automation script that tracks the International Space Station (ISS) in 
 
 ---
 
-## 🔐 Gmail Setup
+##  Gmail Setup
 
 1. Enable **2-Step Verification**
 2. Generate **App Password**
@@ -33,7 +33,7 @@ A Python automation script that tracks the International Space Station (ISS) in 
 
 ---
 
-## ☁️ Run Automatically (PythonAnywhere)
+##  Run Automatically (PythonAnywhere)
 
 Run this script 24/7 without keeping your PC ON.
 
